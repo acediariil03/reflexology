@@ -1,0 +1,10 @@
+14/1/2022,nabel,Hair,Creambath,50.000,Hair Style,75.000,1,1,125.000
+14/1/2022,andika,Reflexology,Kaki, Tangan, Bahu, Punggung, Kepala, Totok Wajah,135.000,1,135.000
+14/1/2022,ko daniel,Traditional,Javanese Meassage,90.000,Totok Wajah,50.000,1,1,140.000
+14/1/2022,nabel,Hair,Creambath,50.000,Hair Mask,75.000,1,1,125.000
+14/1/2022,dika,Hair,Creambath,50.000,Hair Style,75.000,1,1,125.000
+15/1/2022,zufar,Body,Body Frash,190.000,Scrub Full Body,120.000,1,1,310.000
+15/1/2022,aurelius,Body,Body Frash,190.000,Body Care,245.000,1,1,435.000
+15/1/2022,ko daniel,Salon,Manicure,40.000,Pedicure,80.000,Cuci Blow / Catok,50.000,1,1,1,170.000
+18/1/2022,ko daniel,Salon,Manicure,40.000,Pedicure,80.000,Cuci Blow / Catok,50.000,1,1,1,170.000
+18/1/2022,pup,Salon,Manicure,40.000,Pedicure,80.000,1,1,120.000
